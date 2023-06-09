@@ -1,4 +1,6 @@
 "# COLTEC-IaI"
 Façam a entrega do trabalho nesse repositório!
 
-"TrabalhoFinal_MarinaLauraVillacaeMelo.pdf"(TrabalhoFinal_MarinaLauraVillacaeMelo.pdf)
+[Trabalho Final - Marina Laura Villaca e Melo][def]
+
+[def]: TrabalhoFinal_MarinaLauraVillacaeMelo.pdf
